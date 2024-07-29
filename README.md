@@ -1,0 +1,2 @@
+# EducationAcademy
+react landing page 
